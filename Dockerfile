@@ -1,9 +1,8 @@
-# Debian with Buildbot
+# Ubuntu with Buildbot
 #
 # VERSION 1.0
 
-# Start with Debian
-FROM debian
+FROM ubuntu
 MAINTAINER Andrew Okin, forkk@forkk.net
 
 # Install pip
